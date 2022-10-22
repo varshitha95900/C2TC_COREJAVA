@@ -1,8 +1,8 @@
 package com.cg.accessmodifier;
 
 public class Test1 {
-	private int i=10;
-	private void show() {
+	public int i=10;
+	public void show() {
 		System.out.println("hello world");
 	}
 	public static void main(String[] args) {
