@@ -8,7 +8,7 @@ public class chain {
 		list.add(4);
 		list.add(7);
 		list.add(5);
-		System.out.println(list);
+		System.out.println(List);
 	}
 
 }
